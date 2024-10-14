@@ -2,7 +2,7 @@
 
  
 
-class Program1234
+class Program
 
 {
 
@@ -10,7 +10,7 @@ class Program1234
 
     {
 
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hello, World!123");
 
         GreetUser("User");
 
