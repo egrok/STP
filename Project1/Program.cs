@@ -2,7 +2,7 @@
 
  
 
-class Program
+class Program123
 
 {
 
